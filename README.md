@@ -90,4 +90,4 @@ Future Enhancements
 **Author**: Emmanuel Asamoah Kwabena
 
 **LinkedIn**
-[@jkasamoahtech](https://www.linkedin.com/in/emmanuel-asamoah-kwabena-b85830311).
+[Emmanuel Asamoah Kwabena](https://www.linkedin.com/in/emmanuel-asamoah-kwabena-b85830311).
