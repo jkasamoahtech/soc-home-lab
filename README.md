@@ -36,10 +36,10 @@ Detects Base64-encoded PowerShell commands — a common malware obfuscation tech
 index=* source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 EventCode=1 Image="*powershell.exe" CommandLine="*-enc*"
 ```
+MITRE ATT&CK: T1059.001 — PowerShell
 
 ---
 
-MITRE ATT&CK: T1059.001 — PowerShell
 
 Mimikatz Credential Dumping
 Detects execution of Mimikatz and unauthorized LSASS memory access.
