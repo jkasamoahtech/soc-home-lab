@@ -92,13 +92,13 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ## Future Enhancements
 
-  - Add Ubuntu Server to Splunk for multi-OS monitoring
-
-  - Build a Splunk dashboard for attack timeline visualization
-
-  - Write Sigma rules for portable detection engineering
-
-  - Integrate TheHive for case management
+- Add Ubuntu Server logs to Splunk for centralized monitoring.
+  
+- Build interactive Splunk dashboards for security monitoring.
+  
+- Write Sigma detection rules for portability across SIEM platforms.
+  
+- Integrate TheHive for incident response and case management.
 
 ---
 
