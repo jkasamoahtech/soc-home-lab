@@ -69,14 +69,6 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 ---
 
 ## Screenshots
-|                                         |                                                        |
-| :-------------------------------------- | :----------------------------------------------------- |
-| **Splunk Ingesting Endpoint Telemetry** | [Splunk Receiving Logs](01_Splunk_Receiving_Logs.png) |
-| **Sysmon Process Creation Telemetry**   | [Sysmon Process Create](02_Sysmon_Process_Create1.png) |
-| **Sysmon Process Creation Telemetry**   | [Sysmon Process Create](02_Sysmon_Process_Create2.png) |
-| **Sysmon Process Creation Telemetry**   | [Sysmon Process Create](02_Sysmon_Process_Create3.png) |
-| **Real-Time Alert Triggered**           | [Real-Time Alert](03_Real_Time_Alert.png)             |
-| **Mimikatz Detection**                  | [Mimikatz Detected](04_Mimikatz_Detected.png)         |
 
 ### Splunk Ingesting Endpoint Telemetry
 ![Splunk_Ingesting Endpoint Telemetry](01_Splunk_Receiving_Logs.png)
@@ -89,6 +81,13 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ### Sysmon Process Creation Telemetry 03
 ![Sysmon_Process_Creation_Telemetry](02_Sysmon_Process_Create3.png)
+
+### Real-Time Alert Triggered
+![Real_Time_Alert_Triggered](03_Real_Time_Alert.png)
+
+### Mimikatz Detection
+![Mimikatz_Detection](04_Mimikatz_Detected.png)
+
 
 ---
 
