@@ -78,27 +78,27 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 **What I Learned**
 
-  - [ ] Designing resilient network architectures with dual-homed VMs
+  - Designing resilient network architectures with dual-homed VMs
 
-  - [ ] Configuring and tuning Windows event logging and Sysmon
+  - Configuring and tuning Windows event logging and Sysmon
 
-  - [ ] Writing Splunk SPL queries and real-time detection alerts
+  - Writing Splunk SPL queries and real-time detection alerts
 
-  - [ ] Mapping detections to the MITRE ATT&CK framework
+  - Mapping detections to the MITRE ATT&CK framework
 
-  - [ ] Simulating adversary behavior to validate detection coverage
+  - Simulating adversary behavior to validate detection coverage
 
 ---
 
 **Future Enhancements**
 
-  - [ ] Add Ubuntu Server to Splunk for multi-OS monitoring
+  - Add Ubuntu Server to Splunk for multi-OS monitoring
 
-  - [ ] Build a Splunk dashboard for attack timeline visualization
+  - Build a Splunk dashboard for attack timeline visualization
 
-  - [ ] Write Sigma rules for portable detection engineering
+  - Write Sigma rules for portable detection engineering
 
-  - [ ] Integrate TheHive for case management
+  - Integrate TheHive for case management
 
 
 **Author**: Emmanuel Asamoah Kwabena
