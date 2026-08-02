@@ -52,7 +52,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
-**Screenshots**
+##Screenshots
 |                                         |                                                        |
 | :-------------------------------------- | :----------------------------------------------------- |
 | **Splunk Ingesting Endpoint Telemetry** | [Splunk Receiving Logs](01_Splunk_Receiving_Logs.png) |
@@ -64,7 +64,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
-**Tools Used**
+##Tools Used
 
 | Category               | Tool                                 |
 | ---------------------- | ------------------------------------ |
@@ -76,17 +76,17 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
-**What I Learned**
+## What I Learned
 
-  - Designing resilient network architectures with dual-homed VMs
-
-  - Configuring and tuning Windows event logging and Sysmon
-
-  - Writing Splunk SPL queries and real-time detection alerts
-
-  - Mapping detections to the MITRE ATT&CK framework
-
-  - Simulating adversary behavior to validate detection coverage
+- Designed a resilient network architecture using VirtualBox Host-Only and NAT networking.
+- 
+- Configured and tuned Windows Event Forwarding (WEF) and Sysmon.
+- 
+- Developed Splunk SPL queries to detect suspicious activity.
+- 
+- Mapped detections to the MITRE ATT&CK framework.
+- 
+- Simulated adversary techniques to validate detection rules.
 
 ---
 
