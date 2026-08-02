@@ -61,6 +61,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 
 **Tools Used**
+
 | Category               | Tool                                 |
 | ---------------------- | ------------------------------------ |
 | **SIEM**               | Splunk Enterprise                    |
@@ -71,6 +72,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 
 **What I Learned**
+
     Designing resilient network architectures with dual-homed VMs
     Configuring and tuning Windows event logging and Sysmon
     Writing Splunk SPL queries and real-time detection alerts
@@ -79,6 +81,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 
 **Future Enhancements**
+
     [ ] Add Ubuntu Server to Splunk for multi-OS monitoring
     [ ] Build a Splunk dashboard for attack timeline visualization
     [ ] Write Sigma rules for portable detection engineering
