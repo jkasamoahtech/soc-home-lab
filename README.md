@@ -60,7 +60,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 | **Mimikatz Detection**                  | [Mimikatz Detected](04_Mimikatz_Detected.png)         |
 
 
-Tools Used
+**Tools Used**
 | Category               | Tool                                 |
 | ---------------------- | ------------------------------------ |
 | **SIEM**               | Splunk Enterprise                    |
@@ -70,8 +70,7 @@ Tools Used
 | **Virtualization**     | VirtualBox, UTM                      |
 
 
-What I Learned
-
+**What I Learned**
     Designing resilient network architectures with dual-homed VMs
     Configuring and tuning Windows event logging and Sysmon
     Writing Splunk SPL queries and real-time detection alerts
@@ -79,8 +78,7 @@ What I Learned
     Simulating adversary behavior to validate detection coverage
 
 
-Future Enhancements
-
+**Future Enhancements**
     [ ] Add Ubuntu Server to Splunk for multi-OS monitoring
     [ ] Build a Splunk dashboard for attack timeline visualization
     [ ] Write Sigma rules for portable detection engineering
