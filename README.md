@@ -81,7 +81,14 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 ### Splunk Ingesting Endpoint Telemetry
 ![Splunk_Ingesting Endpoint Telemetry](01_Splunk_Receiving_Logs.png)
 
+### Sysmon Process Creation Telemetry 01
+![Sysmon_Process_Creation_Telemetry](02_Sysmon_Process_Create1.png)
 
+### Sysmon Process Creation Telemetry 02
+![Sysmon_Process_Creation_Telemetry](02_Sysmon_Process_Create2.png)
+
+### Sysmon Process Creation Telemetry 03
+![Sysmon_Process_Creation_Telemetry](02_Sysmon_Process_Create3.png)
 
 ---
 
