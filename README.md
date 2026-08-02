@@ -101,6 +101,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
   - Integrate TheHive for case management
 
 
+
 **Author**: Emmanuel Asamoah Kwabena
 
 **LinkedIn**
