@@ -52,7 +52,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
-##Screenshots
+## Screenshots
 |                                         |                                                        |
 | :-------------------------------------- | :----------------------------------------------------- |
 | **Splunk Ingesting Endpoint Telemetry** | [Splunk Receiving Logs](01_Splunk_Receiving_Logs.png) |
@@ -64,7 +64,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
-##Tools Used
+## Tools Used
 
 | Category               | Tool                                 |
 | ---------------------- | ------------------------------------ |
@@ -79,18 +79,18 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 ## What I Learned
 
 - Designed a resilient network architecture using VirtualBox Host-Only and NAT networking.
-- 
+  
 - Configured and tuned Windows Event Forwarding (WEF) and Sysmon.
-- 
+  
 - Developed Splunk SPL queries to detect suspicious activity.
-- 
+  
 - Mapped detections to the MITRE ATT&CK framework.
-- 
+  
 - Simulated adversary techniques to validate detection rules.
 
 ---
 
-**Future Enhancements**
+## Future Enhancements
 
   - Add Ubuntu Server to Splunk for multi-OS monitoring
 
