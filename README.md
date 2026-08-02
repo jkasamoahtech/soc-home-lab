@@ -5,6 +5,7 @@ A fully functional Security Operations Center (SOC) home lab designed to simulat
 ---
 
 ## Architecture Overview
+![SOC Lab Architecture](SOC_Lab_Architecture.png)
 
 The lab runs on a host-only network (`192.168.56.0/24`) to ensure telemetry forwarding remains resilient and independent of WAN connectivity.
 
