@@ -48,16 +48,16 @@ Detects execution of Mimikatz and unauthorized LSASS memory access.
 index=* source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 EventCode=1 Image="*mimikatz*"
 ```
-
 MITRE ATT&CK: T1003.001 — LSASS Memory
 
-Screenshots
+
+**Screenshots**
 |                                         |                                                        |
 | :-------------------------------------- | :----------------------------------------------------- |
-| **Splunk Ingesting Endpoint Telemetry** | ![Splunk Receiving Logs](01_Splunk_Receiving_Logs.png) |
-| **Sysmon Process Creation Telemetry**   | ![Sysmon Process Create](02_Sysmon_Process_Create.png) |
-| **Real-Time Alert Triggered**           | ![Real-Time Alert](03_Real_Time_Alert.png)             |
-| **Mimikatz Detection**                  | ![Mimikatz Detected](04_Mimikatz_Detected.png)         |
+| **Splunk Ingesting Endpoint Telemetry** | [Splunk Receiving Logs](01_Splunk_Receiving_Logs.png) |
+| **Sysmon Process Creation Telemetry**   | [Sysmon Process Create](02_Sysmon_Process_Create.png) |
+| **Real-Time Alert Triggered**           | [Real-Time Alert](03_Real_Time_Alert.png)             |
+| **Mimikatz Detection**                  | [Mimikatz Detected](04_Mimikatz_Detected.png)         |
 
 
 Tools Used
