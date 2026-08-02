@@ -89,6 +89,7 @@ Future Enhancements
 
 Author
 Emmanuel Asamoah Kwabena
-[LinkedIn] (https://www.linkedin.com/in/emmanuel-asamoah-kwabena-b85830311).
+**LinkedIn**
+[@jkasamoahtech](https://www.linkedin.com/in/emmanuel-asamoah-kwabena-b85830311).
 
 Built: August 2026
