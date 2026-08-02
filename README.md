@@ -87,9 +87,7 @@ Future Enhancements
     [ ] Integrate TheHive for case management
 
 
-Author
-Emmanuel Asamoah Kwabena
+**Author**: Emmanuel Asamoah Kwabena
+
 **LinkedIn**
 [@jkasamoahtech](https://www.linkedin.com/in/emmanuel-asamoah-kwabena-b85830311).
-
-Built: August 2026
