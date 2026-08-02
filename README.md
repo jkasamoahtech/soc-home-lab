@@ -4,6 +4,22 @@ A fully functional Security Operations Center (SOC) home lab designed to simulat
 
 ---
 
+## Table of Contents
+
+- [Architecture Overview](#architecture-overview)
+- [Key Features](#key-features)
+- [Detection Rules](#detection-rules)
+  - [Encoded PowerShell Execution](#encoded-powershell-execution)
+  - [Mimikatz Credential Dumping](#mimikatz-credential-dumping)
+- [Screenshots](#screenshots)
+- [Tools Used](#tools-used)
+- [What I Learned](#what-i-learned)
+- [Future Enhancements](#future-enhancements)
+
+
+---
+
+
 ## Architecture Overview
 ![SOC Lab Architecture](SOC_Lab_Architecture.png)
 
@@ -41,7 +57,7 @@ MITRE ATT&CK: T1059.001 — PowerShell
 ---
 
 
-Mimikatz Credential Dumping
+### Mimikatz Credential Dumping
 Detects execution of Mimikatz and unauthorized LSASS memory access.
 
 ```spl
@@ -102,7 +118,9 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
-**Author**: Emmanuel Asamoah Kwabena
+## Author
+
+**Emmanuel Asamoah Kwabena**
 
 **LinkedIn**
 [Emmanuel Asamoah Kwabena](https://www.linkedin.com/in/emmanuel-asamoah-kwabena-b85830311).
