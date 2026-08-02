@@ -72,6 +72,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 | **Attack Simulation**  | PowerShell, Mimikatz, Nmap, Hydra    |
 | **Virtualization**     | VirtualBox, UTM                      |
 
+---
 
 **What I Learned**
 
@@ -85,6 +86,7 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
   -Simulating adversary behavior to validate detection coverage
 
+---
 
 **Future Enhancements**
 
