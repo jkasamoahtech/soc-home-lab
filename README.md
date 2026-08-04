@@ -7,6 +7,7 @@ A fully functional Security Operations Center (SOC) home lab designed to simulat
 ## Table of Contents
 
 - [Architecture Overview](#architecture-overview)
+- [Splunk Dashboard](#splunk-dashboard)
 - [Key Features](#key-features)
 - [Detection Rules](#detection-rules)
   - [Encoded PowerShell Execution](#encoded-powershell-execution)
@@ -24,6 +25,18 @@ A fully functional Security Operations Center (SOC) home lab designed to simulat
 ![SOC Lab Architecture](SOC_Lab_Architecture.png)
 
 The lab runs on a host-only network (`192.168.56.0/24`) to ensure telemetry forwarding remains resilient and independent of WAN connectivity.
+
+
+## Splunk Dashboard
+
+Real-time monitoring of Windows and Linux endpoint attacks:
+
+![Dashboard Top](06a_Dashboard_Top.png)
+![Dashboard Bottom](06b_Dashboard_Bottom.png)
+
+
+---
+
 
 | Component | Purpose | IP Address |
 |-----------|---------|------------|
@@ -126,16 +139,6 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 - Write Sigma detection rules for portability across SIEM platforms.
   
 - Integrate TheHive for incident response and case management.
-
----
-
-## Splunk Dashboard
-
-Real-time monitoring of Windows and Linux endpoint attacks:
-
-![Dashboard Top](06a_Dashboard_Top.png)
-![Dashboard Bottom](06b_Dashboard_Bottom.png)
-
 
 
 ---
