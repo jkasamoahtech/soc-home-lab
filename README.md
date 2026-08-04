@@ -129,6 +129,17 @@ MITRE ATT&CK: T1003.001 — LSASS Memory
 
 ---
 
+## Splunk Dashboard
+
+Real-time monitoring of Windows and Linux endpoint attacks:
+
+![Dashboard Top](06a_Dashboard_Top.png)
+![Dashboard Bottom](06b_Dashboard_Bottom.png)
+
+
+
+---
+
 ## Author
 
 **Emmanuel Asamoah Kwabena**
